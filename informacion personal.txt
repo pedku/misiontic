@@ -1,1 +1,4 @@
-datos personas
+datos personales
+Nombre: Pedro
+Apellido: castro
+e-mail: elpekuluis@gmail.com
